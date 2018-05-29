@@ -1,7 +1,7 @@
-checklist = 1..10
 
-def using_for 
-  for using in checklist
+
+def using_for
+  checklist = 1..10
 	puts Wingardium Leviosa
 end
 
